@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "521330686107",
+    "project_id": "antar-manthan",
+    "storage_bucket": "antar-manthan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521330686107:android:e924f2356cba4a79bcae3e",
+        "android_client_info": {
+          "package_name": "com.example.antar_manthan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521330686107-1dunnbr6i63fb5k4q4hon51m2a3kvapo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antar_manthan",
+            "certificate_hash": "44899a0d00e81044e19438352b84faccd68476ae"
+          }
+        },
+        {
+          "client_id": "521330686107-n3bpt1o6ueqrsonrc3l08tdg6ebfc39a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antar_manthan",
+            "certificate_hash": "eeadcd8b69aadaac11868a232bb8942ccde77519"
+          }
+        },
+        {
+          "client_id": "521330686107-5lhnha0ha9bhr04i72n4r95fufdn13ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj_y-jCaVHtC5EfgqgsDtKAFMpOmoc_t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521330686107-5lhnha0ha9bhr04i72n4r95fufdn13ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

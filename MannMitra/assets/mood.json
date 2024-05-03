@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "question": "How would you describe your mood?",
+      "options": [
+        {
+          "text": "I feel sad",
+          "rating": 0
+        },
+        {
+          "text": "I feel neutral",
+          "rating": 50
+        },
+        {
+          "text": "I feel happy",
+          "rating": 100
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Lost much sleep over worry?",
+      "options": [
+        {
+          "text": "Poor",
+          "rating": 0
+        },
+        {
+          "text": "Good",
+          "rating": 50
+        },
+        {
+          "text": "Excellent",
+          "rating": 100
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Felt you were playing a useful part in things?",
+      "options": [
+        {
+          "text": "More so than usual",
+          "rating": 0
+        },
+        {
+          "text": "Same as usual",
+          "rating": 1
+        },
+        {
+          "text": "Less useful than usual",
+          "rating": 2
+        },
+        {
+          "text": "Much less useful",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Felt capable of making decisions about things?",
+      "options": [
+        {
+          "text": "More so than usual",
+          "rating": 0
+        },
+        {
+          "text": "Same as usual",
+          "rating": 1
+        },
+        {
+          "text": "Less so than usual",
+          "rating": 2
+        },
+        {
+          "text": "Much less capable",
+          "rating": 3
+        }
+      ]
+    }
+  ]
+  
