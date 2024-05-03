@@ -7,6 +7,7 @@ A series of projects made for my Internship at Bharat Intern
 Both apps are developed using Dart
 
 Linkedin Post:
+<br>
 Taskmaster: https://www.linkedin.com/posts/aditya-bansal-a393141a0_taskmaster-productivityapp-flutterdev-activity-7141106578283311105-79VI?utm_source=share&utm_medium=member_android
 <br>
 MannMitra: https://www.linkedin.com/posts/aditya-bansal-a393141a0_flutterdeveloper-mannmitra-emotionaltech-activity-7141089941807177730-Ld8o?utm_source=share&utm_medium=member_android
